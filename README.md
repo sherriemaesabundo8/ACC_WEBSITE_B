@@ -1,5 +1,5 @@
 <p align="center">
-  <b>## ACC_WEBSITE_B</b>
+  <b>ACC_WEBSITE_B</b>
 </p>
 
 <p align="center">
