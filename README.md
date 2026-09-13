@@ -1,5 +1,5 @@
 <p align="center">
-  <b>ACC_WEBSITE_B</b>
+  <b>## ACC_WEBSITE_B</b>
 </p>
 
 <p align="center">
@@ -29,14 +29,8 @@ This is a Laravel-based website project.
 
 ## Requirements
 
-- PHP 8.2 or higher
+- PHP 8.5.0 (Latest)
 - Composer
 - Node.js & NPM
 - MySQL / MariaDB (or your preferred database)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sherriemaesabundo8/ACC_WEBSITE_B.git
-   cd ACC_WEBSITE_B
